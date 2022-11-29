@@ -1,0 +1,6 @@
+{
+  "MONGO_DB_NAME": "fastapi-pj",
+  "MONGO_URL": "mongodb+src://<username>:<password>@mongomongo.jxobg.mongodb.net/fastapi-pj?retryWrites=true&w=majority",
+  "NAVER_API_ID": "<네이버에서 발급받은 API>",
+  "NAVER_API_SECRET": "<네이버에서 발급받은 API SECRET>"
+}
