@@ -1,7 +1,5 @@
 # FastAPI_Project
 
-## FastAPI 활용하여 개인 실습 
-
 # MariaDB 연동하여 데이터 값 호출 및 CRUD
 
 1. 기본적인 FastAPI 작업 및 uvicorn으로 local상 운영
