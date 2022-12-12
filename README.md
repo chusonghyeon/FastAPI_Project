@@ -2,6 +2,8 @@
 
 -> FastAPI 개인 Notion : [https://fresh-hero-dab.notion.site/FAST-API-a79005080242494b95781e27b48ecb87]
 
+-> 개인역량 강화를 위한 FastAPI프레임워크와 광주인공지능사관학교 기업 수주 프로젝트를 위한 기초적인 문법 및 이해
+
 # MariaDB 연동하여 데이터 값 호출 및 CRUD
 
 1. 기본적인 FastAPI 작업 및 uvicorn으로 local상 운영
@@ -13,6 +15,7 @@
 4. 웹 페이지에 API값 송출
 
 - 참고 : [https://www.youtube.com/watch?v=aoPGAoPjF3I&list=PLr_ki3_GfpZMTSdQehJRrIwuDGOHh5LvB]
+
 
 # FastAPI와 React를 활용하여 회원가입 로그인 구현
 
